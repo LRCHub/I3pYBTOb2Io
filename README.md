@@ -1,0 +1,44 @@
+# Opick – Assalamu'alaikum
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:03.84] السلام عليكم، وعليكم السلام
+[00:17.34] 
+[00:25.12] السلام عليكم (وعليكم السلام)
+[00:29.27] السلام عليكم (وعليكم السلام)
+[00:33.61] Mari kita ucapkan setiap bertemu teman
+[00:37.85] Bukti muslim sejati yang beriman
+[00:53.85] 
+[00:42.08] السلام عليكم (وعليكم السلام)
+[00:46.23] السلام عليكم (وعليكم السلام)
+[00:50.59] Muslimin dan muslimah, mari dibudayakan
+[00:54.75] Kita bersama-sama ucap salam
+[00:58.96] السلام عليكم، وعليكم السلام
+[01:12.46] 
+[01:09.61] Mengucapkan salam bukti keteladanan
+[01:18.29] Tak akan berkurang kehormatan dan kewibawaan
+[01:26.77] Islam mengajarkan tentang kesopanan
+[01:35.09] Jadikan panduan kitab suci, kitab Al-Quran
+[01:56.09] 
+[01:45.81] السلام عليكم، وعليكم السلام
+[01:50.00] السلام عليكم، وعليكم السلام
+[01:54.12] Muslimin dan muslimah, mari dibudayakan
+[01:58.59] Kita bersama-sama ucap salam
+[02:02.66] السلام عليكم، وعليكم السلام
+[02:16.16] 
+[02:32.42] السلام عليكم (وعليكم السلام)
+[02:36.53] السلام عليكم (وعليكم السلام)
+[02:41.05] Mari kita ucapkan setiap bertemu teman
+[02:45.30] Bukti muslim sejati yang beriman
+[03:01.30] 
+[02:49.41] Muslimin dan muslimah, mari dibudayakan
+[02:53.64] Kita bersama-sama ucap salam
+[02:57.80] السلام عليكم، وعليكم السلام
+[03:06.44] السلام عليكم، وعليكم السلام
+[03:19.94] 
+[03:17.12] السلام عليكم، وعليكم السلام
+[03:21.27] السلام عليكم، وعليكم السلام
+[03:25.51] السلام عليكم، وعليكم السلام
+[03:29.83] السلام عليكم، وعليكم السلام
+```
