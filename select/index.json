@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Assalamu'alaikum",
+  "base_artist": "Opick",
+  "createdAt": "2026-03-06T03:16:23.679214Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Assalamualaikum",
+      "artist": "Malique",
+      "has_synced": true,
+      "path": "select/01_Assalamualaikum_Malique.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Assalamualaikum",
+      "artist": "Faizal Tahir",
+      "has_synced": true,
+      "path": "select/02_Assalamualaikum_Faizal_Tahir.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Assalamualaikum - Remastered",
+      "artist": "Faizal Tahir",
+      "has_synced": true,
+      "path": "select/03_Assalamualaikum_-_Remastered_Faizal_Tahir.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Assalamualaikum AJL30 - Remastered",
+      "artist": "Faizal Tahir",
+      "has_synced": true,
+      "path": "select/04_Assalamualaikum_AJL30_-_Remastered_Faizal_Tahir.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Assalamualaikum",
+      "artist": "Opick",
+      "has_synced": true,
+      "path": "select/05_Assalamualaikum_Opick.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Assalamualaikum",
+      "artist": "Faizal Tahir",
+      "has_synced": true,
+      "path": "select/06_Assalamualaikum_Faizal_Tahir.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Assalamualaikum - Acoustic",
+      "artist": "Faizal Tahir",
+      "has_synced": true,
+      "path": "select/07_Assalamualaikum_-_Acoustic_Faizal_Tahir.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Assalamualaikum",
+      "artist": "Malique & Adeep Nahar",
+      "has_synced": true,
+      "path": "select/08_Assalamualaikum_Malique_&_Adeep_Nahar.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Assalamualaikum",
+      "artist": "Opick",
+      "has_synced": true,
+      "path": "select/09_Assalamualaikum_Opick.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Assalamualaikum (Acoustic; Remastered)",
+      "artist": "Faizal Tahir",
+      "has_synced": true,
+      "path": "select/10_Assalamualaikum_(Acoustic;_Remastered)_Faizal_Tahir.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Apa Kabar Assalamualaikum",
+      "artist": "Aleehya",
+      "has_synced": true,
+      "path": "select/11_Apa_Kabar_Assalamualaikum_Aleehya.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Assalamualaikum",
+      "artist": "Tan Sri P. Ramlee",
+      "has_synced": false,
+      "path": "select/12_Assalamualaikum_Tan_Sri_P._Ramlee.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Assalamualaikum",
+      "artist": "Omar & Hana",
+      "has_synced": true,
+      "path": "select/13_Assalamualaikum_Omar_&_Hana.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Assalamualaikum",
+      "artist": "J-Rocks",
+      "has_synced": false,
+      "path": "select/14_Assalamualaikum_J-Rocks.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Assalamualaikum",
+      "artist": "Faizal Tahir",
+      "has_synced": true,
+      "path": "select/15_Assalamualaikum_Faizal_Tahir.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Assalamualaikum AJL30",
+      "artist": "Faizal Tahir",
+      "has_synced": true,
+      "path": "select/16_Assalamualaikum_AJL30_Faizal_Tahir.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Assalamualaikum (Live from Jerudong Park)",
+      "artist": "Aziz Harun",
+      "has_synced": true,
+      "path": "select/17_Assalamualaikum_(Live_from_Jerudong_Park)_Aziz_Harun.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Assalamualaikum (ABPBH 2014)",
+      "artist": "Faizal Tahir",
+      "has_synced": true,
+      "path": "select/18_Assalamualaikum_(ABPBH_2014)_Faizal_Tahir.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Assalamualaikum",
+      "artist": "Gamma1",
+      "has_synced": true,
+      "path": "select/19_Assalamualaikum_Gamma1.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Assalamualaikum",
+      "artist": "Opick",
+      "has_synced": false,
+      "path": "select/pl_01_Assalamualaikum_Opick.txt"
+    }
+  ]
+}
